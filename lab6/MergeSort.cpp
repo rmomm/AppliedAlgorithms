@@ -91,3 +91,5 @@ void MergeSortBottomUp(vector<int>& arr, SortStats& stats) {
     auto end = chrono::high_resolution_clock::now();
     stats.time = chrono::duration<double>(end - start).count();
 }
+
+

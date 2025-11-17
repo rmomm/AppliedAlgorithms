@@ -15,3 +15,8 @@ struct SortStats {
 void MergeSortTopDown(vector<int>& arr, SortStats& stats);
 
 void MergeSortBottomUp(vector<int>& arr, SortStats& stats);
+
+void MergeSortBottomUpOptimized(vector<int>& arr, SortStats& stats, size_t cutoff = 16);
+
+void MergeSortK10(vector<int>& arr, SortStats& stats);
+

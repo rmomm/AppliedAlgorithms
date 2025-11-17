@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\User\source\repos\AA\lab6\lab6\data.h(21,53): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\source\repos\AA\lab6\lab6\data.h(24,58): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\source\repos\AA\lab6\lab6\data.h(27,53): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  lab6.vcxproj -> C:\Users\User\source\repos\AA\lab6\x64\Debug\lab6.exe
